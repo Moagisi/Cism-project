@@ -1,0 +1,18 @@
+<html>
+  <title>
+    Cism website
+  </title>
+  
+  <body>
+    <h1>This is the website that we created and hosted the compiler we designed</h1>
+  </body>
+  
+  <style>
+    body {
+      background-color:blue;
+      color:#fff;
+      text-align:center;
+    }
+  </style>
+  
+</html>
